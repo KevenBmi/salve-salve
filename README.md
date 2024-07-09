@@ -1,2 +1,4 @@
-# salve salve
+# Salve salve
  Primeiro repositótio do curso Git e Github
+
+ Repositório criado durante uma aula ao vivo!
